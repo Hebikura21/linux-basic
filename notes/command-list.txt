@@ -1,0 +1,14 @@
+<< 'EOF'
+pwd = lihat lokasi folder sekarang
+ls = lihat isi folder
+cd = pindah folder
+mkdir = bikin folder
+touch = bikin file kosong
+cat = lihat isi file
+cp = copy file
+mv = pindah atau rename file
+rm = hapus file
+grep = cari teks di dalam file
+find = cari file/folder
+chmod = ubah permission file
+EOF
