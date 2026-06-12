@@ -11,5 +11,7 @@ rm = hapus file
 grep = cari teks di dalam file
 find = cari file/folder
 chmod = ubah permission file
-EOF
+
 git status = cek perubahan file
+
+git status
