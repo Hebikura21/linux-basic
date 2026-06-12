@@ -1,0 +1,2 @@
+Hari ini belajar Linux basic
+DevOps butuh Linux, Git, Docker, CI/CD
